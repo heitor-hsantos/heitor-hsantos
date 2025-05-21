@@ -1,4 +1,6 @@
-## Olá me chamo Heitor 👋
+## Hi there i'm Heitor 👋
+Computer Science Student, interested in Mobile Android development and Back-end development
+
 
 <div style="display: inlineblock"><br>
 <h1> 💻 Languages </h1>
@@ -13,7 +15,6 @@
  </div>
 </div>
 
-##
 <div style="display: inlineblock">
      <h2>OS Principal</h2> 
  <div >
@@ -21,7 +22,6 @@
  </div>   
 </div>
 
-##
 <h2>Linkedin</h2>
 <div>
    <a href="https://www.linkedin.com/in/heitorhsantos/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="70"/></a>
