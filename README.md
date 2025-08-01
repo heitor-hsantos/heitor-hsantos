@@ -18,8 +18,8 @@ Computer Science Student, interested in Mobile Android development and Back-end 
 <div style="display: inlineblock">
      <h2>OS Principal</h2> 
  <div >
+   <a href="https://cachyos.org/" target="_blank">
   <img  alt="OS"  width="80" src="https://github.com/CachyOS/calamares-config/blob/grub-3.2/etc/calamares/branding/cachyos/logo.png">
-   
  </div>   
 </div>
 
