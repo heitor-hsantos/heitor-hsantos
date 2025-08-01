@@ -18,7 +18,7 @@ Computer Science Student, interested in Mobile Android development and Back-end 
 <div style="display: inlineblock">
      <h2>OS Principal</h2> 
  <div >
-  <img  alt="OS"  width="80" src="https://skillicons.dev/icons?i=debian">
+  <img  alt="OS"  width="80" src="https://skillicons.dev/icons?i=arch">
  </div>   
 </div>
 
