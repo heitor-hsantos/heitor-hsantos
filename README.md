@@ -1,7 +1,8 @@
 ## Hi there i'm Heitor 👋
 Computer Science Student, interested in Mobile Android development and Back-end development
-
-Currently learning Go, Redis and DevOps
+## Currently learning 🔎:
+* Redis
+* Dev Ops
 <div style="display: inlineblock"><br>
 <h1> 💻 Stack </h1>
 <div align="left">
@@ -12,9 +13,9 @@ Currently learning Go, Redis and DevOps
  <h2>Tools 🛠️</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,androidstudio,dynamodb,azure,vercel,tailwind,fastapi,docker,git,aws,arduino,postman,linux" width="1500"/>
-  
+
    <a href="https://cachyos.org/" target="_blank">
-  <img  alt="OS"  width="80" src="https://github.com/CachyOS/calamares-config/blob/grub-3.2/etc/calamares/branding/cachyos/logo.png">
+  <img  alt="OS"  width="65" src="https://github.com/CachyOS/calamares-config/blob/grub-3.2/etc/calamares/branding/cachyos/logo.png">
  </div>
 </div>
 
