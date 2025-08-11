@@ -3,7 +3,7 @@ Computer Science Student, interested in Mobile Android development and Back-end 
 
 
 <div style="display: inlineblock"><br>
-<h1> 💻 Languages </h1>
+<h1> 💻 Stack </h1>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,kotlin,bash,javascript,typescript,py,nodejs,go,cpp,html,css" width="900"/>
  </div>
