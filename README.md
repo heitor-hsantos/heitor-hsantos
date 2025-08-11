@@ -1,5 +1,6 @@
 ## Hi there i'm Heitor 👋
 Computer Science Student, interested in Mobile Android development and Back-end development
+
 Currently learning Go, Redis and DevOps
 <div style="display: inlineblock"><br>
 <h1> 💻 Stack </h1>
