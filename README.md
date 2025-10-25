@@ -1,11 +1,6 @@
 <h1 align = "center"> Hi there i'm Heitor 👋 </h1>
 Computer Science Student, interested in Full-Stack and Back-end development
 <br>
- Currently learning 🔎:
- <br>
-* Redis
-<br>
-* Dev Ops
 <div><br>
 <h1> 💻 Stack </h1>
 <div align="center">
@@ -34,7 +29,12 @@ Computer Science Student, interested in Full-Stack and Back-end development
 - 🎨 [MFA-Antfraude](https://github.com/heitor-hsantos/antifraud) – Rest Api multifator authenticator system to prevent fraud in bank transactions.
   
 ---
+ 📚 Currently learning 🔎:
+ <br>
+* Redis
 <br>
+* Dev Ops
+
 <h2>Linkedin</h2>
 <div>
    <a href="https://www.linkedin.com/in/heitorhsantos/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="70"/></a>
