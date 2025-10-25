@@ -6,18 +6,23 @@ Computer Science Student, interested in Full-Stack and Back-end development
 * Redis
 <br>
 * Dev Ops
-<div style="display: inlineblock"><br>
+<div><br>
 <h1> 💻 Stack </h1>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,bash,javascript,typescript,py,nodejs,go,cpp,spring,redis" width="900"/>
+<div align="center">
+   <img src="https://skillicons.dev/icons?i=java,kotlin,bash,py,fastapi,nodejs,go,cpp,spring,redis" width="900"/>
  <br>
+</div>
+ 
+ <div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,express,nextjs,tailwind,styledcomponents" width="750"/>
+ </div>
+
+ <br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,androidstudio,dynamodb,azure" width="600"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,express,nextjs,tailwind,html,css,styledcomponents" width="900"/>
-</div>
- <br>
-</div>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,androidstudio,dynamodb,azure,vercel,fastapi,docker,git,aws,arduino,postman,linux,mongodb" width="900"/>
+  <img src="https://skillicons.dev/icons?i=vercel,docker,git,aws,arduino,postman,linux" width="700"/>
 </div>
 
 <h2>Linkedin</h2>
