@@ -1,22 +1,21 @@
-## Hi there i'm Heitor 👋
-Computer Science Student, interested in Mobile Android development and Back-end development
-## Currently learning 🔎:
+<h1 align = "center"> Hi there i'm Heitor 👋 </h1>
+Computer Science Student, interested in Full-Stack and Back-end development
+<br>
+ Currently learning 🔎:
+ <br>
 * Redis
+<br>
 * Dev Ops
 <div style="display: inlineblock"><br>
 <h1> 💻 Stack </h1>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,bash,javascript,typescript,py,nodejs,go,cpp,html,css" width="900"/>
- </div>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,bash,javascript,typescript,py,nodejs,go,cpp,spring,redis" width="900"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,express,nextjs,tailwind,html,css,styledcomponents" width="900"/>
 </div>
-
- <h2>Tools 🛠️</h2>
+</div>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,androidstudio,dynamodb,azure,vercel,tailwind,fastapi,docker,git,aws,arduino,postman,linux" width="1500"/>
-
-   <a href="https://cachyos.org/" target="_blank">
-  <img  alt="OS"  width="65" src="https://github.com/CachyOS/calamares-config/blob/grub-3.2/etc/calamares/branding/cachyos/logo.png">
- </div>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,androidstudio,dynamodb,azure,vercel,fastapi,docker,git,aws,arduino,postman,linux,mongodb" width="900"/>
 </div>
 
 <h2>Linkedin</h2>
