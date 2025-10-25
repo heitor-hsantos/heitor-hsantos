@@ -25,6 +25,16 @@ Computer Science Student, interested in Full-Stack and Back-end development
   <img src="https://skillicons.dev/icons?i=vercel,git,arduino,postman,linux" width="500"/>
 </div>
 
+---
+
+## 🚀 Featured Projects
+
+- 🔐 [cliOpenWeather](https://github.com/heitor-hsantos/cliOpenWeather) – Comand line tool to get weather info.
+
+- 🎨 [MFA-Antfraude](https://github.com/heitor-hsantos/antifraud) – Rest Api multifator authenticator system to prevent fraud in bank transactions.
+  
+---
+<br>
 <h2>Linkedin</h2>
 <div>
    <a href="https://www.linkedin.com/in/heitorhsantos/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="70"/></a>
