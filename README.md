@@ -1,45 +1,43 @@
-<h1 align = "center"> Hi there i'm Heitor 👋 </h1>
-Computer Science Student, interested in Full-Stack and Back-end development
-<br>
-<div><br>
-<h1> 💻 Stack </h1>
-<div align="center">
-   <img src="https://skillicons.dev/icons?i=java,kotlin,bash,py,fastapi,nodejs,go,cpp,spring,redis" width="900"/>
- <br>
-</div>
- 
- <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,express,nextjs,tailwind,styledcomponents" width="750"/>
- </div>
+<h1 align="center">Olá, sou o Heitor 👋</h1>
 
- <br>
+<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor Full-Stack e Back-end.</h3>
+
+---
+
+## 🛠️ Stack Principal
+
+Apaixonado por criar soluções robustas e escaláveis. Minhas ferramentas e tecnologias preferidas:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,androidstudio,dynamodb,azure,aws,docker" width="800"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=vercel,git,arduino,postman,linux" width="500"/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,go,py,nodejs,cpp,bash,spring,fastapi,express" alt="Linguagens e Back-end" width="900"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,nextjs,tailwind,styledcomponents,androidstudio" alt="Frontend e Mobile" width="750"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,dynamodb,docker,linux,aws,azure" alt="Databases e Infraestrutura" width="800"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,vercel,postman,arduino" alt="Ferramentas" width="350"/>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
-- 💻 [cliOpenWeather](https://github.com/heitor-hsantos/cliOpenWeather) – Comand line tool to get weather info.
+* **💻 [cliOpenWeather](https://github.com/heitor-hsantos/cliOpenWeather)** – Ferramenta de linha de comando (`CLI`) para obter informações meteorológicas.
+* **💰 [MFA-Antfraude](https://github.com/heitor-hsantos/antifraud)** – API REST para sistema de autenticação multifator e prevenção de fraudes em transações bancárias.
 
-- 💰 [MFA-Antfraude](https://github.com/heitor-hsantos/antifraud) – Rest Api multifator authenticator system to prevent fraud in bank transactions.
-  
 ---
- 📚 Currently learning 🔎:
- <br>
-* Redis
-<br>
-* Dev Ops
 
-<h2>Linkedin</h2>
-<div>
-   <a href="https://www.linkedin.com/in/heitorhsantos/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="70"/></a>
-</div>
-<h2>Gmail</h2>
-<div>
-   <a href="heitor.santos118@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="70"/></a>
-</div>
+## 📚 Atualmente Focado em...
+
+Busco aprofundar meus conhecimentos para construir aplicações ainda mais eficientes.
+
+* **Redis:** Explorando a aplicação de *caching* para melhorar a performance e reduzir a latência.
+* **DevOps:** Focado em CI/CD, automação e práticas de infraestrutura como código (IaC).
+
+---
+
+## 📧 Conecte-se Comigo
+
+| **[LinkedIn](https://www.linkedin.com/in/heitorhsantos/)** | **[Email](mailto:heitor.santos118@gmail.com)** |
+| :---: | :---: |
+| <a href="https://www.linkedin.com/in/heitorhsantos/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="60"/></a> | <a href="mailto:heitor.santos118@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="60"/></a> |
