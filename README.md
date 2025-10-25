@@ -6,7 +6,6 @@
 
 ## 🛠️ Stack Principal
 
-Apaixonado por criar soluções robustas e escaláveis. Minhas ferramentas e tecnologias preferidas:
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,kotlin,go,py,nodejs,cpp,bash,spring,fastapi,express" alt="Linguagens e Back-end" width="900"/>
