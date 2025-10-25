@@ -20,9 +20,9 @@ Computer Science Student, interested in Full-Stack and Back-end development
  <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,androidstudio,dynamodb,azure" width="600"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,androidstudio,dynamodb,azure,aws,docker" width="800"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=vercel,docker,git,aws,arduino,postman,linux" width="700"/>
+  <img src="https://skillicons.dev/icons?i=vercel,git,arduino,postman,linux" width="500"/>
 </div>
 
 <h2>Linkedin</h2>
