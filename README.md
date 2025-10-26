@@ -21,8 +21,9 @@
 
 ## 🚀 Projetos em Destaque
 
-* **💻 [cliOpenWeather](https://github.com/heitor-hsantos/cliOpenWeather)** – Ferramenta de linha de comando (`CLI`) para obter informações meteorológicas.
-* **💰 [MFA-Antfraude](https://github.com/heitor-hsantos/antifraud)** – API REST para sistema de autenticação multifator e prevenção de fraudes em transações bancárias.
+* **💻[CliOpenWeather](https://github.com/heitor-hsantos/cliopenweather)** – Ferramenta de linha de comando (CLI) em Go para obter informações meteorológicas. O desenvolvimento seguiu a metodologia Git Flow para gerenciamento de features e releases.
+* **💰 [MFA-Antfraude](https://github.com/heitor-hsantos/antifraud)** – API REST para sistema de autenticação multifator e prevenção de fraudes em transações bancárias, utilizando Azure,Docker, Java, Spring, formato de API rest e git flow.
+
 
 ---
 
