@@ -10,7 +10,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,kotlin,go,py,nodejs,cpp,bash,spring,fastapi,express" alt="Linguagens e Back-end" width="900"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,nextjs,tailwind,styledcomponents,androidstudio" alt="Frontend e Mobile" width="750"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nextjs,tailwind,styledcomponents,androidstudio" alt="Frontend e Mobile" width="750"/>
     <br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,dynamodb,docker,linux,aws,azure" alt="Databases e Infraestrutura" width="800"/>
     <br>
