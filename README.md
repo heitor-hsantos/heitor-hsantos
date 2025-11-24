@@ -19,7 +19,7 @@
 
 <div align="center">
     <strong>Backend</strong><br>
-    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,py,fastapi,nodejs,express,cpp,bash&perline=10" alt="Backend"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,cs,py,fastapi,nodejs,express,cpp,bash&perline=10" alt="Backend"/>
     <br><br>
     <strong>Frontend & Mobile</strong><br>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,html,css,tailwind,styledcomponents,androidstudio&perline=9" alt="Frontend & Mobile"/>
