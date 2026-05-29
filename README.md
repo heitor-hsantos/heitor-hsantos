@@ -9,12 +9,6 @@
 </div>
 <br>
 
-<div align="center">
-  <a href="https://github.com/heitor-hsantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitor-hsantos&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a> 
-</div>
-
 ## 🛠️ My Tools and Technologies
 
 <div align="center">
@@ -45,6 +39,16 @@
     * The application is containerized with Docker and hosted on the cloud (Azure).
     * **Technologies:** <img src="https://skillicons.dev/icons?i=java,spring,docker,azure&theme=light&perline=4" height="25"/>
 
+* **💻 [Glask](https://github.com/heitor-hsantos/glask)**
+    * A command-line interface (CLI) tool to create your own A.I agent in your terminal.
+    * you can use your preferred A.I to manage your terminal
+    * **Technologies:** <img src="https://skillicons.dev/icons?i=go&theme=light&perline=1" height="25"/>
+
+* **🏢 [VeloCRM](https://github.com/heitor-hsantos/VeloCRM)**
+    * CRM for all porpos, build your own managemen, actual state is in initial development phase
+    * Developed using **GitFlow**, **feature branches**, and **semantic commits**.
+    * The application is containerized with Docker and hosted in future on the cloud (Azure).
+    * **Technologies:** <img src="https://skillicons.dev/icons?i=java,spring,docker,azure&theme=light&perline=4" height="25"/>
 ---
 
 ## 📚 Current Focus
@@ -53,11 +57,13 @@ I am currently focused on deepening my knowledge to build even more efficient an
 
 * **Redis:** Exploring advanced *caching* applications to improve performance and reduce API latency.
 * **DevOps:** Focusing on CI/CD, build/deploy automation, and Infrastructure as Code (IaC) practices.
+* **Epecializing in JAVA** Reading Modern JAVA and effective Java
+* **Learning AI** Learning how LLM, Agents, MCP and  security good practicies
 
 ---
 
 ## 📧 Connect With Me
 
-| **[LinkedIn](https://www.linkedin.com/in/heitorhsantos/)** | **[Email](mailto:heitor.santos118@gmail.com)** |
+| **[LinkedIn](https://www.linkedin.com/in/heitorhsantos/)** | **[Email](mailto:heitor.santos5002@gmail.com)** |
 | :---: | :---: |
 | <a href="https://www.linkedin.com/in/heitorhsantos/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="60"/></a> | <a href="mailto:heitor.santos118@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="60"/></a> |
