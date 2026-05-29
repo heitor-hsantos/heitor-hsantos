@@ -8,15 +8,6 @@
   <p>I am a developer passionate about technology and problem-solving. Currently pursuing a degree in Computer Science, my focus is on building robust and scalable back-end systems, but I also have a strong interest in the full-stack ecosystem, connecting the front-end to the infrastructure efficiently.</p>
 </div>
 <br>
-
-<div align="center">
-     <a href="https://github.com/heitor-hsantos">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/?username=heitor-hsantos&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a> 
-</div>
-
-
-
 ## 🛠️ My Tools and Technologies
 
 <div align="center">
