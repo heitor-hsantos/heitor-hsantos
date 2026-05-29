@@ -9,6 +9,14 @@
 </div>
 <br>
 
+<div align="center">
+     <a href="https://github.com/heitor-hsantos">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/?username=heitor-hsantos&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a> 
+</div>
+
+
+
 ## 🛠️ My Tools and Technologies
 
 <div align="center">
