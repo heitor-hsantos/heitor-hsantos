@@ -8,6 +8,7 @@
   <p>I am a developer passionate about technology and problem-solving. Currently pursuing a degree in Computer Science, my focus is on building robust and scalable back-end systems, but I also have a strong interest in the full-stack ecosystem, connecting the front-end to the infrastructure efficiently.</p>
 </div>
 <br>
+
 ## 🛠️ My Tools and Technologies
 
 <div align="center">
